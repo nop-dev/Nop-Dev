@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Yuri Sousa and I'm a Front-end developer!!!</h2>
+<h2 align="left">Hi 👋! My name is Yuri Sousa and I'm a Full-stack developer!!!</h2>
 
 ###
 
@@ -10,16 +10,16 @@
 
 ###
 
-<img align="right" height="150" src="https://64.media.tumblr.com/tumblr_lxgitmNm2m1qg6rkio1_500.gifv"  />
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
@@ -43,7 +43,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://instagram.com/hash.tag_yuri?igshid=MzNlNGNkZWQ4Mg==" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -62,6 +62,6 @@
 
 <br clear="both">
 
-<img src="![Snake animation](https://github.com/Nop-Dev/Nop-Dev/blob/output/github-contribution-grid-snake.svg)" />
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
